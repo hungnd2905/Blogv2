@@ -8,4 +8,4 @@ WebLink: https://glacial-citadel-06746.herokuapp.com/
 2. [WebLink]/compose : Route to Compose-page. 
 3. [WebLink]/posts/:postName : Route to Posts-page with explicit "postName".
 
-- Manage Posts (create/ edit/ delete) at cloud.mongodb.com 
+- Manage Posts (edit/ delete) at cloud.mongodb.com 
